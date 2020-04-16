@@ -1,0 +1,52 @@
+.card{
+    border: 2px solid red;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    /* background-color: #2C93BE; */
+    background-image: linear-gradient(#026295,#339DC5,#28A1CC );
+    border-radius: 15px;
+    color: rgba(253, 235, 235, 0.562);
+    text-shadow: 1px 2px black;
+}
+.card-nbr{
+    text-align: left;
+    padding: 20px;
+    font-size: 1.5em;
+
+}
+.card-holder{
+    text-align: left;
+    padding: 0 20px 10px;
+    color: rgb(255, 222, 172);
+}
+.master img{
+width: 100px;
+}
+.chip-logo{
+    height: 40px;
+    
+}
+.chip{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    align-items: center;
+    color: rgb(250, 209, 152);
+    
+}
+.master{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.master-logo{
+    padding: 0 15px;
+}
+.inputs{
+    padding: 90px 30px;
+    display: flex;
+    justify-content: center;
+}.form-control{
+    width: 250px;
+}
